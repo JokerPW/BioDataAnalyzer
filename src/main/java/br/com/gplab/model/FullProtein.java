@@ -22,6 +22,7 @@ public class FullProtein implements Runnable {
     private ArrayList<String> rawData;
     public ArrayList<String> getRawData() { return rawData; }
 
+
     private Protein protein;
     public Protein getProtein() { return protein; }
     
